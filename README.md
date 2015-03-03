@@ -5,7 +5,7 @@ This repository aims to collect all kinds of resources in scattered Turkish Info
 Any contribution is welcome.
 
 ## Available resources
-* [Software](#) (Stemmers, Analyzers etc.)
+* [Software](software.md) (Stemmers, Analyzers etc.)
 * [Publications](#) 
 * [People](#) 
 * [Research Groups](#)
