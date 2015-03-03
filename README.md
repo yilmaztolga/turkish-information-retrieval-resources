@@ -6,8 +6,8 @@ Any contribution is welcome.
 
 ## Available resources
 * [Software](software.md) (Stemmers, Analyzers etc.)
-* [Publications](#) 
-* [People](#) 
-* [Research Groups](#)
-* [Data Sets](#)
-* [Other](#) (Links to other resources like blogs etc.)
+* [Publications](publications.md) 
+* [People](people.md) 
+* [Research Groups](groups.md)
+* [Data Sets](datasets.md)
+* [Other](other.md) (Links to other resources like blogs etc.)
